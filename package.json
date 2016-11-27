@@ -1,0 +1,19 @@
+{
+  "name": "hlaup",
+  "version": "1.0.0",
+  "description": "Vefsíða fyrir hlaupara",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnargunnars/Hlaup.git"
+  },
+  "author": "Benedikt Jónsson & Arnar Gunnarsson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arnargunnars/Hlaup/issues"
+  },
+  "homepage": "https://github.com/arnargunnars/Hlaup#readme"
+}
