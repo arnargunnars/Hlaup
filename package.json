@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/arnargunnars/Hlaup/issues"
   },
-  "homepage": "https://github.com/arnargunnars/Hlaup#readme"
+  "homepage": "https://github.com/arnargunnars/Hlaup#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
 }
